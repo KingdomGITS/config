@@ -1,1 +1,90 @@
 
+{
+  "body": {
+    "bodyPosition": "centerPosition",
+    "bodyBackgroundColor": "#ffffff",
+    "blockBackgroundColor": "#f9f9f9",
+    "smallScreenWidth": "100%",
+    "mediumScreenWidth": "80%",
+    "largeScreenWidth": "60%"
+  },
+  "logo": {
+    "logoShow": true,
+    "location": "area1",
+    "logoURL": "https://yourdomain.com/images/logo.png",
+    "logoDestinationUrl": "https://yourdomain.com",
+    "imagePosition": "left",
+    "backgroundColor": "#f9f9f9",
+    "maxHeight": "80px"
+  },
+  "logoTitle": {
+    "logoTitleShow": true,
+    "title": "Your Donation Page",
+    "textPosition": "center",
+    "fontSize": "24px",
+    "fontFamily": "Arial, sans-serif",
+    "fontWeight": "bold",
+    "fontColor": "#333333"
+  },
+  "menu": {
+    "menuShow": true,
+    "location": "area2",
+    "fontColor": "#333333",
+    "fontWeight": "normal",
+    "fontFamily": "Arial, sans-serif",
+    "textDecoration": "none",
+    "textAlign": "center",
+    "backgroundColor": "#ffffff",
+    "menuItems": {
+      "1": { "Home": "https://yourdomain.com/home" },
+      "2": { "Donate": "https://yourdomain.com/donate" },
+      "3": { "About": "https://yourdomain.com/about" }
+    }
+  },
+  "aboutTop": {
+    "aboutShow": true,
+    "location": "area3",
+    "image": "https://yourdomain.com/images/donation-image.jpg",
+    "aboutUsText": "Help us in delivering support to those in need."
+  },
+  "progressBar": {
+    "progressBarShow": true,
+    "location": "area4",
+    "goalValue": "10000",
+    "currentProgress": "5000",
+    "outerBackgroundColor": "#e9ecef",
+    "currentProgressBackgroundColor": "#007bff",
+    "goalBackgroundColor": "#d6d6d6",
+    "progressBarHeight": "20px"
+  },
+  "donationTargetShow": {
+    "donationTargetShow": true,
+    "location": "area5",
+    "donationTargetItems": {
+      "1": { 
+        "image": "https://yourdomain.com/images/target1.jpg", 
+        "amount": "50", 
+        "description": "Support Education" 
+      },
+      "2": { 
+        "image": "https://yourdomain.com/images/target2.jpg", 
+        "amount": "100", 
+        "description": "Provide Clean Water" 
+      }
+    }
+  },
+  "paymentInfoShow": {
+    "paymentInfoShow": true,
+    "location": "area7",
+    "defaultPaymentAmount": "25",
+    "paymentAmount1": "10",
+    "paymentAmount2": "25",
+    "paymentAmount3": "50",
+    "paymentAmount4": "100",
+    "paymentButtonPadding": "20px",
+    "buttonFontSize": "16px",
+    "buttonBackgroundColor": "#007bff",
+    "buttonOnHoverBackgroundColor": "#0056b3",
+    "buttonFontColor": "#ffffff"
+  }
+}
