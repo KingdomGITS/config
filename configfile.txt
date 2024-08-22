@@ -125,5 +125,22 @@
     "outerPadding": "10px",
     "outerMargin": "10px",
     "outerBorderRadius": "5px"
+  },
+  "emailNotifications": {
+    "blockShow": true,
+    "text": "You will receive email notifications."
+  },
+  "aboutSide": {
+    "show": true,
+    "content": "Your 'about side' content here..."
+  },
+  "otherWaysToGive": {
+    "show": true,
+    "methods": [
+      "By Mail",
+      "Over Phone",
+      "Donate Stock",
+      "Matching Gift"
+    ]
   }
 }
