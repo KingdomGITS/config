@@ -11,8 +11,8 @@
   "logo": {
     "logoShow": true,
     "location": "area1",
-    "logoURL": "https://yourdomain.com/images/logo.png",
-    "logoDestinationUrl": "https://yourdomain.com",
+    "logoURL": "",
+    "logoDestinationUrl": "",
     "imagePosition": "left",
     "backgroundColor": "#f9f9f9",
     "maxHeight": "80px"
@@ -44,7 +44,7 @@
   "aboutTop": {
     "aboutShow": true,
     "location": "area3",
-    "image": "https://yourdomain.com/images/donation-image.jpg",
+    "image": "",
     "aboutUsText": "Help us in delivering support to those in need."
   },
   "progressBar": {
@@ -62,12 +62,12 @@
     "location": "area5",
     "donationTargetItems": {
       "1": { 
-        "image": "https://yourdomain.com/images/target1.jpg", 
+        "image": "", 
         "amount": "50", 
         "description": "Support Education" 
       },
       "2": { 
-        "image": "https://yourdomain.com/images/target2.jpg", 
+        "image": "", 
         "amount": "100", 
         "description": "Provide Clean Water" 
       }
